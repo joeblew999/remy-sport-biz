@@ -2,7 +2,7 @@
 
 The platform supports four distinct event types. Each has different structure, goals, and participant needs.
 
-See [actors.md](actors.md) for full actor definitions. See [roadmap.md](roadmap.md) for which features apply to each event type.
+See [actors.md](actors.md) for full actor definitions. See [../roadmap/roadmap.md](../roadmap/roadmap.md) for which features apply to each event type.
 
 ---
 

@@ -127,4 +127,4 @@ Which features apply to which event types.
 
 ---
 
-*See [actors.md](actors.md) · [event-types.md](event-types.md) · [roadmap.md](roadmap.md)*
+*See [../domain/actors.md](../domain/actors.md) · [../domain/event-types.md](../domain/event-types.md) · [../roadmap/roadmap.md](../roadmap/roadmap.md)*

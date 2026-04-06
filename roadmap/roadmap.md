@@ -2,8 +2,8 @@
 
 What's built, what's coming, and what's on the horizon for Remy Sport.
 
-See [matrix.md](matrix.md) for the full Actor × Feature × Event Type access matrix.
-See [actors.md](actors.md) for actor definitions. See [event-types.md](event-types.md) for event type definitions.
+See [../access/matrix.md](../access/matrix.md) for the full Actor × Feature × Event Type access matrix.
+See [../domain/actors.md](../domain/actors.md) for actor definitions. See [../domain/event-types.md](../domain/event-types.md) for event type definitions.
 
 **Actor key:** O = Organizer · C = Coach · P = Player · S = Spectator · R = Referee · A = Admin
 
