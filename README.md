@@ -6,6 +6,18 @@ You don't need to know how to code. Your job is to describe **what** needs to be
 
 ---
 
+## Process
+
+**What it's for:** Start here if you are new to being a PO. These documents explain how the work flows from idea to shipped feature, what the statuses on stories mean, and what "done" actually means. Read these before diving into the backlog or sprints.
+
+| Document | What it answers |
+|---|---|
+| [process/how-we-work.md](process/how-we-work.md) | The end-to-end flow from idea to release |
+| [process/story-lifecycle.md](process/story-lifecycle.md) | What each story status means and what acceptance criteria are |
+| [process/definition-of-done.md](process/definition-of-done.md) | The shared agreement on what "Done" means |
+
+---
+
 ## Domain
 
 **What it's for:** These are your foundational definitions — the things that never really change. Before the dev team builds anything, they need to understand who uses the platform and what kinds of events it supports. You wrote this knowledge already as a basketball coach. This is just the formal version of it.
