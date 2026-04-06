@@ -10,6 +10,10 @@ You don't need to know how to code. Your job is to describe **what** needs to be
 
 **What it's for:** These are your foundational definitions — the things that never really change. Before the dev team builds anything, they need to understand who uses the platform and what kinds of events it supports. You wrote this knowledge already as a basketball coach. This is just the formal version of it.
 
+**Actors** are the different types of people who use the platform — an Organizer running a tournament is a very different user to a Spectator following live scores. Each actor has different needs and different permissions. Getting this right means the dev team builds the right features for the right people.
+
+**Event types** are the different formats of basketball events the platform supports. A Tournament (bracketed, winner-takes-all) works completely differently from a League (season-long, points-based) or a Camp (training, no scores). The platform has to be built differently for each one — so the dev team needs to understand these distinctions the same way you do as a coach.
+
 | Document | What it answers |
 |---|---|
 | [domain/actors.md](domain/actors.md) | Who the six user types are and what their goals are |
